@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Pair programming consists of a driver and a navigator. The driver is the individual who is responsible for typing the code, and implementing the navigator's logic for the code. The navigator is the individual responsible for where the code is being "driven to". While navigating, the person comes up with initial ideas as to how the code is supposed to work, and the intial logic. Both individuals are responsible for catching typos. 
 
-  Researched answer:
+  Researched answer: It is a programming technique where two programmers work on one work station. The driver writes the code, while the navigator reviews each line of code as it is typed.
 
 
 
@@ -55,12 +55,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. GitHub pull request: 
+1. GitHub pull request: Github pull requests tell others about changes to github repositories that you have made.
 
-2. Higher Order Functions:
+2. Higher Order Functions:A higher order function is a function that takes a function as an argument and returns a function. very meta. 
 
-3. Jest:
+3. Jest: Jest is a javascript testing framework with the focus of simplifying support for web applications.
 
-4. Objects:
+4. Objects: this can be a variable, data structure, or function that and can be related to the instance of a class
 
-5. Classes:
+5. Classes:classes are templates for creating objects.
+
